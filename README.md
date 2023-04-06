@@ -1,16 +1,18 @@
-### Hi there, I'm [Ma1icious](https://github.com/Ma1icious)! 👋
+## Hi there, I'm [Ma1icious](https://github.com/Ma1icious)! 👋
 
-<!--
-**Ma1icious/Ma1icious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies
 
-Here are some ideas to get you started:
+![Git](https://img.shields.io/badge/-Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/-C-grey?logo=c)
+![Go](https://img.shields.io/badge/-Go-blue?logo=go)
+![Python](https://img.shields.io/badge/-Python-black?logo=python)
+
+![Windows](https://img.shields.io/badge/Windows_11-0078D6?logo=windows&logoColor=fff)
+![MacOS](https://img.shields.io/badge/MacOS-0078D6?logo=apple&logoColor=fff)
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=Ma1icious)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ma1icious&hide=TeX&layout=compact)
